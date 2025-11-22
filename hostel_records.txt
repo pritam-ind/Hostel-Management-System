@@ -1,5 +1,0 @@
---- CURRENT OCCUPANCY ---
-{'VGU001': {'name': 'Amit', 'room': 101}, 'VGU002': {'name': 'Rahul', 'room': 102}}
-
---- COMPLAINT LOG ---
-Wifi issue in 101
